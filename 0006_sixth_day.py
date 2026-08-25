@@ -1,4 +1,3 @@
-'''
 #1
 #Insertion sort
 import array
@@ -15,7 +14,7 @@ for i in range(1,n):
     my_array.insert(insert_index, current_value)
 
 print("Sorted array:", my_array)
-'''
+
 #2
 import array
 my_array = [45,334,32,53,23,22,13,4]
